@@ -1,5 +1,12 @@
 [
   {
+    "title": "Orion Custom API",
+    "type": 1,
+    "description": "Orion Custom API, meaning your own private API generated in Orionoid.com",
+    "repositoryUrl": "https://github.com/customAPI/scraper",
+    "packageUrl": "https://raw.githubusercontent.com/customAPI/scraper/main/scraper.json"
+  },
+  {
     "title": "Aki07 - Unified",
     "type": 1,
     "description": "Express provider for Syncler by Aki07. It contains all the sources you will need in one package. Use this package on its own.",
